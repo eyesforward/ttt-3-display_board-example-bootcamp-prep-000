@@ -3,7 +3,7 @@
  TIc Tac Toe = [" ", " ", " ", " ", " ", " ", " ", "
   ", " "]
 
-def Tic Tac Toe
+def display_board
   puts "   |   |   "
   puts "-----------"
   puts "   |   |   "
